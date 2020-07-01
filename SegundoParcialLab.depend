@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1593613677 source:c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593609047 c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\linkedlist.h
+	"validaciones.h"
+
+1593557496 c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\validaciones.h
+
+1593557485 source:c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1593614077 source:c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"pandemia.h"
+	"informes.h"
+	"parseo.h"
+
+1593614133 c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\pandemia.h
+	"LinkedList.h"
+
+1593614345 source:c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\pandemia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pandemia.h"
+
+1593613590 source:c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\informes.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pandemia.h"
+
+1593612701 c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\informes.h
+	"LinkedList.h"
+
+1593614033 source:c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\parseo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parseo.h"
+	"pandemia.h"
+
+1593614117 c:\users\franco costanzo\desktop\abril facultad\segundoparciallab\parseo.h
+	"LinkedList.h"
+
